@@ -1,0 +1,108 @@
+*{
+	-o-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+body{
+
+height: 1200px;
+
+width: 800px;
+
+background:  #ddd;
+
+margin:  0 auto;
+}
+/*header section star*/
+.container{
+	
+background:  #fff;
+	
+height: 850px;
+	
+width: 800px;
+}
+.con{
+
+}
+.logo{
+
+margin-left:  15px;
+}
+span{
+
+font-size: 30px;
+
+float:  left;
+}
+.list{
+    margin-bottom:  20px;
+}
+nav{}
+nav ul{
+}
+nav ul li{
+
+display: inline;
+
+margin-left:  45px;
+
+font-size:  20px;
+}
+/*header section end*/
+/*images section star*/
+.images{
+    border-bottom: 1px solid#ddd;
+}
+.img{
+}
+.img img{
+
+height: 270px;
+
+width: 230px;
+
+margin-left: 15px;
+
+float:  left;
+}
+h3{
+    margin-left: 270px;
+    background: red;
+    height: 20px;
+    width: 45px;
+}
+h1{
+	margin:0;
+	font-size:  2em;
+	margin-left: 270px;
+}
+h4{
+	
+margin-left: 270px;
+	
+border-bottom: 1px solid #ddd;
+}
+table{
+    margin-left: 265px;
+}
+table tr{text-align:  left;font-size: 20px;}
+table tr th{
+
+}
+table tr td{
+
+text-align: left;
+}
+/*images section end*/
+/*contain section star*/
+.program{
+
+}
+.pr{
+
+}
+p{
+    margin-left: 15px;
+}
+/*contain section end*/
